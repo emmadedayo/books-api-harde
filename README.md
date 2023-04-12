@@ -25,9 +25,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ##  Project Setup
 In order to setup the application locally on you system.
 1. clone the repository
-2. `git clone https://github.com/emmadedayo/books-api.git`
-3. cd into the project directory
-4. `cd books-api`
+2. `git clone https://github.com/emmadedayo/books-api-harde.git`
 5. install the dependencies for the application
 6. `composer install`
 7. create a .env file from the .env.example
